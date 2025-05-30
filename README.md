@@ -1,0 +1,1 @@
+En esta Página Web se presenta una biografía de Iván Barrera, estudiante de la EPET N°20 de Neuquén, Argentina. Incluye información personal, gustos, logros, enlaces interactivos y un formulario básico. Este proyecto corresponde al TP N°3 del profesor Wiedermann.
